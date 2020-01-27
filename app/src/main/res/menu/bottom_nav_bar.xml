@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favs"
+        android:title="Favs"
+        android:icon="@drawable/ic_like"/>
+
+    <item
+        android:id='@+id/cats'
+        android:title="Cats"
+        android:icon="@drawable/ic_cat"/>
+
+</menu>
